@@ -3,7 +3,7 @@
 A fully interactive browser-based simulator for four classic CPU scheduling algorithms, featuring real-time animated Gantt charts and detailed performance metrics.
 
 ## 🚀 Live Demo
-Open `index.html` in any modern browser — no installation required.
+Open `OS_CA2_project.html` in any modern browser — no installation required.
 
 ## 📋 Algorithms Implemented
 | Algorithm | Type | Description |
